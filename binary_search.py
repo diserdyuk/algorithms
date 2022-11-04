@@ -19,5 +19,4 @@ list_1 = [1, 2, 3, 4, 5, 6, 7]
 
 print(binar_serch(list_1, 4))
 
-# ReAD
 # http://aliev.me/runestone/SortSearch/TheBinarySearch.html
